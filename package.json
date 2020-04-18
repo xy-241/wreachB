@@ -1,0 +1,28 @@
+{
+  "name": "wreachB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XinYang-YXY/wreachB.git"
+  },
+  "keywords": [],
+  "author": "XinYang YU",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XinYang-YXY/wreachB/issues"
+  },
+  "homepage": "https://github.com/XinYang-YXY/wreachB#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.9",
+    "mongoose-extend-schema": "^1.0.0"
+  }
+}
